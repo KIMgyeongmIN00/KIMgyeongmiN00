@@ -58,17 +58,6 @@
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
 
-<br/>
-
-<h3 align="center">🚀 주요 프로젝트</h3>
-
-<div align="center">
-
-  <a href="https://github.com/Team-BSUCC/moram-moram" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Team-BSUCC&repo=moram-moram&theme=tokyonight&border_color=30363d" />
-  </a>
-
-</div>
 
 <br/>
 
