@@ -82,12 +82,3 @@
 
 <br/>
 
-<h3 align="center">📈 GitHub 활동 통계</h3>
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=KIMgyeongmiN00&show_icons=true&theme=tokyonight&hide=issues&rank_icon=github" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIMgyeongmiN00&layout=compact&theme=tokyonight&langs_count=6" />
-
-</div>
